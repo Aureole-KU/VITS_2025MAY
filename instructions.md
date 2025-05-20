@@ -1,4 +1,4 @@
-한국어 버전은 여기로 → [README-ko.md](README-ko.md)
+한국어 버전은 여기로 → [instructions_kor.md](instructions_kor.md)
 # How to use
 ## Clone this repository
 ```sh
